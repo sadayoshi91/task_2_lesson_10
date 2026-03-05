@@ -19,3 +19,7 @@ Projekt jest niewielki, ale praktyczny i pozwala przećwiczyć kluczowe umiejęt
 - zarządzanie stanem aplikacji,
 - obsługę zdarzeń i czasu,
 - przechowywanie danych po stronie klienta.
+
+## Plan rozwoju
+- Dodanie prostych statystyk tygodniowych (liczba sesji i czasu skupienia).
+- Dodanie ciemnego motywu interfejsu.
